@@ -2,7 +2,7 @@
 <img alt="Logo banner" src="https://github.com/cloudlinkd-networks/whatsapp-notification/blob/main/logo.png"/></p>
 </br>
 
-# WordPress WhatsApp Notification with OTP
+# CloudLinkd WhatsApp</br></br>WordPress WhatsApp Notification with OTP
 
 ![Example dashboard](https://raw.githubusercontent.com/cloudlinkd-networks/WHMCS-WhatsApp-Notification/refs/heads/main/screenshot-4.png)
 </br></br>
