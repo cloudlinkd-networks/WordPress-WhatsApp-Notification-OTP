@@ -28,12 +28,13 @@ Settings :
 
 - Go to gateway tab and enable WhatsApp
 - Select Whatsapp Gateway option and select "Custom WhatsApp Gateway"
-- WhatsApp Gateway URL: "https://wa-api.cloudlinkd.com/send?"
+- WhatsApp Gateway URL: "https://wa.cloudlinkd.com/send-message?"
 - HTTP Method: "Post"
-- Gateway Parameters: "receiver={to}&msgtext={message}&token=your-cloudlinkd-token from https://wa.cloudlinkd.com"
+- Gateway Parameters: "&api_key=your-cloudlinkd-api-key&sender={sender_id}&number={to}&message={message}" - Get the API Key from https://wa.cloudlinkd.com
 - Send as Body Data: "Yes"
 - Encode Message: "No"
 - Phone Number: with + and country code
+- Sender ID: Your Device/Phone number ( *Without country code + )
 - WhatsApp Message Template:
   <p>Site Name - {NAME}</p>
   <p>Domain - {DOMAIN}</p>
