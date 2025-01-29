@@ -33,7 +33,7 @@ Settings :
 - Gateway Parameters: "&api_key=your-cloudlinkd-api-key&sender={sender_id}&number={to}&message={message}" - Get the API Key from https://wa.cloudlinkd.com
 - Send as Body Data: "Yes"
 - Encode Message: "No"
-- Phone Number: with + and country code
+- Phone Number: with only country code
 - Sender ID: Your Device/Phone number ( *Without country code + )
 - WhatsApp Message Template:
   <p>Site Name - {NAME}</p>
