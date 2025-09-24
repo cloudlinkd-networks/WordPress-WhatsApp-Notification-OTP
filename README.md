@@ -16,7 +16,7 @@ Installation, Settings and Test Gateway.
 
 Installation :
 
-- Download the "cloudlinkd+digits-v8.4.4.1.zip" file from the releases tab.
+- Download the "cloudlinkd+digits-v8.6.3.1.zip" file from the releases tab.
 - Unzip the .zip file.
 - Log in to your WordPress admin panel.
 - Select the plugins, then Add new.
